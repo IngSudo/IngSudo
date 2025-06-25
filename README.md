@@ -11,12 +11,12 @@
 <table align="center" width="60%">
   <tr>
     <td align="center">
-      <h2>Proyecto De Tienda con Registro Admin/User</h2>
+      <h2>Store Project with Admin/User Registration</h2>
       <div>
         <a href="https://github.com/IngSudo/Back_tienda" target="_blank">
           <img src="https://github.com/user-attachments/assets/e14e5ad1-f2ac-4ace-98e0-3c913faee2cf" width="200">
         </a>
-        <p>Este <a href="https://github.com/IngSudo/Back_tienda" target="_blank"> proyecto </a> fue realizado como práctica/prueba para validar conocimientos</p>
+        <p>This <a href="https://github.com/IngSudo/Back_tienda" target="_blank"> proyect </a> was carried out as a practice/test to validate knowledge</p>
       </div>
     </td>
   </tr>
