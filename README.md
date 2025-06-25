@@ -9,15 +9,20 @@
 <br>
 
 ## Proyectos 
-<table>
-<tr>
-<td width="50%">
-<h2 align="center">Proyecto De Tienda con Registro Admin/User</h2>
-<div align="center">
-<a href="https://github.com/IngSudo/Back_tienda" target="_blank"><img src="https://github.com/user-attachments/assets/e14e5ad1-f2ac-4ace-98e0-3c913faee2cf"></a> 
-<p>Fue realizado como practica/prueba para validar conocimientos</p>
-</div>                                                                              
-</td>
+<table align="center" width="60%">
+  <tr>
+    <td align="center">
+      <h2>Proyecto De Tienda con Registro Admin/User</h2>
+      <div>
+        <a href="https://github.com/IngSudo/Back_tienda" target="_blank">
+          <img src="https://github.com/user-attachments/assets/e14e5ad1-f2ac-4ace-98e0-3c913faee2cf" width="200">
+        </a>
+        <p>Este <a href="https://github.com/IngSudo/Back_tienda" target="_blank"> proyecto </a> fue realizado como práctica/prueba para validar conocimientos</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
   
 ## ⚙️ &nbsp;GitHub Analytics
 
