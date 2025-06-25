@@ -16,7 +16,7 @@
         <a href="https://github.com/IngSudo/Back_tienda" target="_blank">
           <img src="https://github.com/user-attachments/assets/e14e5ad1-f2ac-4ace-98e0-3c913faee2cf" width="200">
         </a>
-        <p>This <a href="https://github.com/IngSudo/Back_tienda" target="_blank"> proyect </a> was carried out as a practice/test to validate knowledge</p>
+        <p>This proyect was carried out as a practice/test to validate knowledge</p>
       </div>
     </td>
   </tr>
