@@ -3,7 +3,6 @@
 <p align="center"> <img width="702" alt="image" src="https://github.com/user-attachments/assets/8f93f7af-b0aa-4497-b549-7b71d3dbf109" /> </p>
 
 ## About Me
-
 - 💻 Systems Student
 - Willing to Take Risks
 <br>
