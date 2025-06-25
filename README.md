@@ -7,7 +7,7 @@
 - Willing to Take Risks
 <br>
 
-## Proyectos 
+## Proyects 
 <table align="center" width="60%">
   <tr>
     <td align="center">
